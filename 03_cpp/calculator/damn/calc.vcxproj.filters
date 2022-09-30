@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Z:\1_course\4931101_20001\2022-polytech-belochkin\03_cpp\calculator\calculator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Z:\1_course\4931101_20001\2022-polytech-belochkin\03_cpp\calculator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{81EBC52F-AE56-3744-8ED2-E6B823C009C4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
