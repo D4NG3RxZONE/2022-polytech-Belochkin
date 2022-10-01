@@ -11,60 +11,60 @@
 
 `-o1` 
     time: 
-real    0m0.031s
-user    0m0.000s
-sys     0m0.000s
-    size:
-15056 Kb
-
-`-o2`
-    time:
-real    0m0.689s
-user    0m0.000s
-sys     0m0.000s
-    size:
-15056 Kb
-
-`-o3`
-    time:
-real    0m0.690s
-user    0m0.000s
-sys     0m0.000s
-    size:
-15056 Kb
-
-`-o0`
-    time:
-real    0m0.676s
-user    0m0.000s
-sys     0m0.000s
-    size:
-15056 Kb
-`-os`
-    time:
-real    0m0.691s
-user    0m0.000s
-sys     0m0.000s
-    size:
-15056 Kb
-`-ofast`  
-    time:
-real    0m0.700s
-user    0m0.000s
-sys     0m0.000s
-    size:
-15056 Kb
-`-og`
-    time:
-real    0m0.692s
-user    0m0.000s
-sys     0m0.000s
-    size:
-15056 Kb
-`-oz`
-    time:
-real    0m0.677s
+real    0m0.252s
 user    0m0.000s
 sys     0m0.015s
     size:
-15056 Kb
+15413672 b
+
+`-o2`
+    time:
+real    0m0.219s
+user    0m0.000s
+sys     0m0.000s
+    size:
+15414310 b
+
+`-o3`
+    time:
+real    0m0.203s
+user    0m0.000s
+sys     0m0.000s
+    size:
+15414292 b
+
+`-o0`
+    time:
+real    0m0.669s
+user    0m0.000s
+sys     0m0.000s
+    size:
+15414445 b
+`-os`
+    time:
+real    0m0.440s
+user    0m0.000s
+sys     0m0.000s
+    size:
+15413780 b
+`-ofast`  
+    time:
+real    0m0.203s
+user    0m0.000s
+sys     0m0.000s
+    size:
+15415466 b
+`-og`
+    time:
+real    0m0.390s
+user    0m0.000s
+sys     0m0.015s
+    size:
+15413738 b
+`-oz`
+    time:
+real    0m0.429s
+user    0m0.000s
+sys     0m0.000s
+    size:
+15413780 b
